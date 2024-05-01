@@ -26,6 +26,6 @@
 
 ### Repositories
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Path-Finder&theme=catppuccin_latte&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Sycles&theme=graywhite&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Project-H&theme=graywhite&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Softimage-GLTF-IO&theme=graywhite&show_owner=false) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Sycles&theme=catppuccin_latte&show_owner=false) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Project-H&theme=catppuccin_latte&show_owner=false) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Softimage-GLTF-IO&theme=catppuccin_latte&show_owner=false) 
