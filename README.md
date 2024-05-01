@@ -1,6 +1,6 @@
 ### Short info
 - :mortar_board: Education: mathematics
-- :hammer: Job: lectures on highter math in university
+- :hammer: Job: lectures on higher math in university
 - :earth_americas: Hobby: programming
 - :envelope: Contacts: cgproggame@gmail.com
 
