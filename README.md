@@ -25,4 +25,4 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
 
 ### Repositories
- 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Project-H&theme=graywhite&show_owner=false) 
