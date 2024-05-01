@@ -12,7 +12,7 @@
 - <img height="12" width="12" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
 - <img height="12" width="12" src="https://cdn.simpleicons.org/cplusplus/#00599C" /> C++
 
- <div class="grid-container">
+ <div style="display: grid;">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
