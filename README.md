@@ -10,3 +10,4 @@
 
 ### Technologies
 - <img height="16" width="16" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
+- <img height="16" width="16" src="https://cdn.simpleicons.org/cplusplus/#00599C" /> C++
