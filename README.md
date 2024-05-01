@@ -18,3 +18,6 @@
 - <img height="12" width="12" src="https://cdn.simpleicons.org/playcanvas/#E05F2C" /> PlayCanvas
 - <img height="12" width="12" src="https://cdn.simpleicons.org/typescript/#3178C6" /> TypeScript
 - <img height="12" width="12" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
+
+### Statistics
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
