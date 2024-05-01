@@ -9,5 +9,5 @@
 - :joystick: Game development
 
 ### Technologies
-- <img height="16" width="16" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
-- <img height="16" width="16" src="https://cdn.simpleicons.org/cplusplus/#00599C" /> C++
+- <img height="13" width="13" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
+- <img height="14" width="14" src="https://cdn.simpleicons.org/cplusplus/#00599C" /> C++
