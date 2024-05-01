@@ -23,9 +23,3 @@
 ### Statistics
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tugcga&theme=default) 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
-
-### Repositories
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Path-Finder&theme=catppuccin_latte&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Sycles&theme=catppuccin_latte&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Project-H&theme=catppuccin_latte&show_owner=false) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tugcga&repo=Softimage-GLTF-IO&theme=catppuccin_latte&show_owner=false) 
