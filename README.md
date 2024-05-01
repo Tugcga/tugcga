@@ -21,4 +21,4 @@
 - <img height="12" width="12" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
 
 ### Statistics
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact) 123
