@@ -21,4 +21,8 @@
 - <img height="12" width="12" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
 
 ### Statistics
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tugcga&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tugcga&theme=default) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugcga&layout=compact)
+
+ ### Repositories
+ 
