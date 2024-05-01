@@ -9,8 +9,12 @@
 - :joystick: Game development
 
 ### Technologies
-#### Languages
 - <img height="12" width="12" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
 - <img height="12" width="12" src="https://cdn.simpleicons.org/cplusplus/#00599C" /> C++
 - <img height="12" width="12" src="https://cdn.simpleicons.org/rust/#000000" /> Rust
-- 
+- <img height="12" width="12" src="https://cdn.simpleicons.org/assemblyscript/#007AAC" /> AssemblyScript
+- <img height="12" width="12" src="https://cdn.simpleicons.org/webassembly/#654FF0" /> WebAssembly
+- <img height="12" width="12" src="https://cdn.simpleicons.org/unity" /> Unity
+- <img height="12" width="12" src="https://cdn.simpleicons.org/playcanvas/#E05F2C" /> PlayCanvas
+- <img height="12" width="12" src="https://cdn.simpleicons.org/typescript/#3178C6" /> TypeScript
+- <img height="12" width="12" src="https://cdn.simpleicons.org/javascript/#F7DF1E" /> JavaScript
