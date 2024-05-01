@@ -9,4 +9,4 @@
 - :joystick: Game development
 
 ### Technologies
-- 
+- <img height="14" width="14" src="https://cdn.simpleicons.org/python/#3776AB" /> Python
