@@ -11,11 +11,11 @@
 ### Technologies
 - <img height="12" width="12" src="https://cdn.simpleicons.org/python" /> Python
 - <img height="12" width="12" src="https://cdn.simpleicons.org/c" />/<img height="12" width="12" src="https://cdn.simpleicons.org/cplusplus" /> C/C++
-- <img height="12" width="12" src="https://cdn.simpleicons.org/csharp" /> C#
+- C#
 - <img height="12" width="12" src="https://cdn.simpleicons.org/rust" /> Rust
 - <img height="12" width="12" src="https://cdn.simpleicons.org/assemblyscript" /> AssemblyScript
 - <img height="12" width="12" src="https://cdn.simpleicons.org/webassembly" /> WebAssembly
-- <img height="12" width="12" src="https://cdn.simpleicons.org/unity" /> Unity
+- Unity
 - <img height="12" width="12" src="https://cdn.simpleicons.org/playcanvas" /> PlayCanvas
 - <img height="12" width="12" src="https://cdn.simpleicons.org/typescript" /> TypeScript
 - <img height="12" width="12" src="https://cdn.simpleicons.org/javascript" /> JavaScript
